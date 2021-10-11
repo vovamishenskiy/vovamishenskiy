@@ -7,3 +7,5 @@ Hello, I am Vladimir Mishenskii, @vovamishenskiy. <br/>
 I'm interested in IT, programming and everything related with these. <br/>
 At the moment I'm learning JavaScript. <br/>
 My contacts - vk.com/vovamishenskiy; tg - @vovamishenskiy. <br/>
+<br/>
+p.s. all repositories will be updated a bit later and original files will be pushed. 
